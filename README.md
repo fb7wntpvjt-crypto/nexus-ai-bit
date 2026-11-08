@@ -1,2 +1,2 @@
-# nexus-ai-bit
+# nexus-ai-bet
 My free discord ai
